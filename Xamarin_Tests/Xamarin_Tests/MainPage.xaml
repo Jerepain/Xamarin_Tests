@@ -18,5 +18,7 @@
       </local:FontAwesomeLabel.GestureRecognizers>
       
     </local:FontAwesomeLabel>
+    
+    <Image WidthRequest="100" HeightRequest="100"  Source="{Binding Photo}"></Image>
   </StackLayout>
 </ContentPage>
